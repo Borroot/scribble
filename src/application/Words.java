@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class Words {
 	
-	private File wordFile = new File("Resources/words.txt");
+	private File wordFile = new File("resources/words.txt");
 	private Scanner input;
 	
 	private ArrayList<String> allWords = new ArrayList<>();
